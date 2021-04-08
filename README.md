@@ -5,10 +5,10 @@
 I am a Computer Science student who is interested in Website Development and creating apps.
 
 - 🔭 I’m currently working on my personal projects.
-- 🌱 Current Coursework: Statistical Analysis, Discrete Mathematics, and Data Structures. 
+- 🌱 Current Coursework: Statistics, Discrete Mathematics, and Data Structures. 
 - 💻 You can see some of my work on my [Portfolio](joseor1j.github.io/Portfolio/).
 - 📫 How to reach me through my [LinkedIn](linkedin.com/in/jose-orozco-3134a4191/).
-- ⚡ Fun fact: I am a CC transfer student and applied for the Fall 2021 semester!
+- ⚡ Fun fact: I am a CC transfer student and will be attending California State University, Long Beach for the Fall of 2021.
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
