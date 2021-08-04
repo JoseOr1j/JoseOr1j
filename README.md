@@ -7,7 +7,7 @@ I am a Computer Science and Linguistics student @UCLA.
 - 🔭 I’m currently working on my personal projects.
 - 🌱 Current Coursework: Statistics, Discrete Mathematics, and Data Structures. 
 - 💻 You can see some of my work on my [Portfolio](joseor1j.github.io/Portfolio/).
-- 📫 How to reach me through my [LinkedIn](linkedin.com/in/jose-orozco-3134a4191/).
+- 📫 You can reach me through my [LinkedIn](linkedin.com/in/jose-orozco-3134a4191/).
 - ⚡ Fun fact: I am a community college transfer student.
 
 <!-- - 👯 I’m looking to collaborate on ...
