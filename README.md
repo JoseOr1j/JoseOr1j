@@ -5,11 +5,11 @@
 Computer Science and Linguistics undergraduate @UCLA.
 
 - 🔭 I’m currently working on personal projects.
-- 🌱 Fall '21 Coursework: 
-- - CS 1 - Computer Science Seminar 
-- - CS 31 - Intro to Computer Science I
-- - LS 110 - Career Exploration in the Life Sciences 
-- - LING 20 - Intro to Linguistic Analysis 
+- 🌱 Winter '22 Coursework: 
+- - CS 32 - Intro to Computer Science II
+- - CS 35L - Software Construction Lab
+- - LING 102 - Intro to Phonetics
+- - LING 120B - Syntax I
 - 💻 You can see some of my work on my [Portfolio](joseor1j.github.io/Portfolio/).
 - 📫 You can reach me through my [LinkedIn](linkedin.com/in/jose-orozco-3134a4191/).
 <!-- ⚡ Fun fact: I am a community college transfer student. -->
