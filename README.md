@@ -6,8 +6,7 @@ Computer Science and Linguistics undergraduate @UCLA.
 
 - 🔭 I’m currently working on personal projects.
 - 🌱 Winter '22 Coursework: 
-- - CS 32 - Intro to Computer Science II
-- - CS 35L - Software Construction Lab
+- - CS 31 - Intro to CS I
 - - LING 102 - Intro to Phonetics
 - - LING 120B - Syntax I
 - 💻 You can see some of my work on my [Portfolio](joseor1j.github.io/Portfolio/).
