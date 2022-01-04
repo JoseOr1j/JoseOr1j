@@ -8,8 +8,7 @@ Computer Science and Linguistics undergraduate @UCLA.
 - 🌱 Winter '22 Coursework: 
 - - CS 31 - Intro to Computer Science I
 - - LING 102 - Intro to Phonetics
-- - LING 120B - Syntax I
-- - LING M150 - Intro to Indo European Linguistics 
+- - LING 120B - Syntax I 
 - 💻 You can see some of my work on my [Portfolio](joseor1j.github.io/Portfolio/).
 - 📫 You can reach me through my [LinkedIn](linkedin.com/in/jose-orozco-3134a4191/).
 <!-- ⚡ Fun fact: I am a community college transfer student. -->
