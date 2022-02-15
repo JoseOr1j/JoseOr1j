@@ -2,9 +2,10 @@
 
 <!--![Banner](https://github.com/JoseOr1j/JoseOr1j/blob/master/Github-Banner.png)-->
 
-Computer Science and Linguistics undergraduate @UCLA
+Computer Science and Linguistics undergraduate @ UCLA
 
-- 🔭 I’m currently working on personal projects
+<!-- 🔭 I’m currently working on personal projects-->
+- - - 
 - 🌱 Winter '22 Coursework: 
 - - CS 31 - Intro to Computer Science I
 - - LING 102 - Intro to Phonetics
@@ -15,6 +16,7 @@ Computer Science and Linguistics undergraduate @UCLA
 - - CS 35L - Software Construction Lab 
 - - CS 88SA - Machine Learning 
 - - LING 119A - Intro to Phonology
+- - - 
 - 💻 You can see some of my work on my [Portfolio](joseor1j.github.io/Portfolio/)
 - 📫 You can reach me through my [LinkedIn](linkedin.com/in/jose-orozco-3134a4191/)
 
