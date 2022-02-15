@@ -9,6 +9,7 @@ Computer Science and Linguistics undergraduate @UCLA
 - - CS 31 - Intro to Computer Science I
 - - LING 102 - Intro to Phonetics
 - - LING 120B - Syntax I 
+- - - 
 - 🌱 Spring '22 Coursework:
 - - CS 32 - Intro to Computer Science II
 - - CS 35L - Software Construction Lab 
