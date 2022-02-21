@@ -56,7 +56,7 @@ CS 180 - Intro to Algorithms and Complexity
     <br>
 MATH 170E - Intro to Statistical Probability 
     <br>
-LING 165B - Intro to Semantics  
+LING 165B - Syntax II  
 </h4>
 <!-- begin links -->
 
