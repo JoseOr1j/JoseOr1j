@@ -1,7 +1,7 @@
 <h1 align="center">
   Hello there, I'm Jose 👋
    <h1 align="center">
-  <img alt="Halcyon Logo" src="https://github.com/JoseOr1j/Portfolio/blob/master/img/uclabruins.jpg" width="400" />
+  <!-- <img alt="Halcyon Logo" src="https://github.com/JoseOr1j/Portfolio/blob/master/img/uclabruins.jpg" width="400" /> -->
 </h1>
   
 </h1>
@@ -44,9 +44,9 @@ CS 32 - Intro to Computer Science II
     <br>
 CS 35L - Software Construction Lab 
     <br>
-CS 88SA - Machine Learning 
-    <br>
 LING 119A - Intro to Phonology
+    <br>
+LING 127 - Syntatic Typology and Universals 
 </h4>
 
 <h4>
