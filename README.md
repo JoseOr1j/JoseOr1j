@@ -14,52 +14,6 @@
 
 <!--![Banner](https://github.com/JoseOr1j/JoseOr1j/blob/master/Github-Banner.png)-->
 
-<!-- 🔭 I’m currently working on personal projects-->
-<h4>
-  <p align="center">🌱 Fall '21 Coursework 🌱
-    <br>
-CS 1 - Computer Science Seminar 
-    <br>
-CS 30 - Principles and Practices of Computer Science
-    <br>
-LING 20 - Intro to Linguistic Analysis
-    <br>
-LS 110 - Intro to Life Sciences 101
-</h4>
-
-<h4>
-  <p align="center">🌱 Winter '22 Coursework 🌱
-    <br>
-CS 31 - Intro to Computer Science I
-    <br>
-LING 102 - Intro to Phonetics
-    <br>
-LING 120B - Syntax I 
-</h4>
-
-<h4>
-  <p align="center">🌱 Spring '22 Coursework 🌱
-    <br>
-CS 32 - Intro to Computer Science II
-    <br>
-CS 35L - Software Construction Lab 
-    <br>
-LING 119A - Intro to Phonology
-    <br>
-LING 127 - Syntatic Typology and Universals 
-</h4>
-
-<h4>
-  <p align="center">🌱 Summer '22 Coursework 🌱
-    <br>
-CS 180 - Intro to Algorithms and Complexity 
-    <br>
-MATH 170E - Intro to Statistical Probability 
-    <br>
-LING 165B - Syntax II  
-</h4>
-<!-- begin links -->
-
 <h4>
   <p align="center">🌱 Links 🌱
     <br>
