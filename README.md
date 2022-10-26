@@ -7,7 +7,7 @@
 </h1>
 <h2>
 <p align="center">
-  Computer Science and Linguistics undergraduate<a href="https://www.ucla.edu/"> @ UCLA</a>
+  Computer Science and Applied Linguistics undergraduate<a href="https://www.ucla.edu/"> @ UCLA</a>
 </p>
   </h2>
 <!-- <p align="center"> -->
