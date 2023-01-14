@@ -25,6 +25,8 @@
      <br>
     🍁 Masters in Computer Science or Computational Linguistics, TBA 🍁
     <br>
+     🍁 Google Project Management CAPM Certification, Estimated Summer 2023 🍁
+     <br>
 </h4>
 
 <h4>
