@@ -9,7 +9,7 @@
 <p align="center">
   🍁 Computer Science and Applied Linguistics Undergraduate<a href="https://www.ucla.edu/"> @ UCLA 🍁</a>
   <br>
-  🍂 Looking for Web Dev, Linguistics, IT, Project Management and E-Commerce Roles 🍂
+  🍂 Looking for Web Dev, QA, Project Management and E-Commerce Roles 🍂
 </p>
   </h2>
 <!-- <p align="center"> -->
