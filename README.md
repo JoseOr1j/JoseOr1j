@@ -32,13 +32,15 @@
 <h4>
   <p align="center">💻 Related Experience 💬
     <br>
-     🍁 L'SPACE MCA Cohort Developer @ NASA - Sept 2020 - Jan 2021 🍁 </a>
+     🍁 L'SPACE MCA Cohort PM Investigator @ NASA - Sept 2020 - Jan 2021 🍁 </a>
     <br>
-     🍁 Information Technology Student Assistant @ East Los Angeles College - Mar 2021 - Jun 2021 🍁
+     🍁 Information Technology QA Intern @ East Los Angeles College - Mar 2021 - Jun 2021 🍁
      <br>
     🍁 Independent E-commerce Retailer @ eBay - Sept 2022 - Present 🍁
     <br>
     🍁 L'SPACE NWPEE Cohort Project Manager @ NASA - Jan 2023 - Present 🍁
+    <br>
+    🍁 Salesforce Development & QA Intern @ FYI Inc - Feb 2023 - Present 🍁
 </h4>
 
 
