@@ -40,7 +40,7 @@
     <br>
     🍁 L'SPACE NWPEE Cohort Project Manager @ NASA - Jan 2023 - Present 🍁
     <br>
-    🍁 Salesforce Development & QA Intern @ FYI Inc - Feb 2023 - Present 🍁
+    🍁 Salesforce Web Development Intern @ FYI Inc - Feb 2023 - Present 🍁
 </h4>
 
 
