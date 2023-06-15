@@ -19,14 +19,12 @@
 <h4>
   <p align="center">💻 Degrees and Future Plans 💬
     <br>
-     🍁 Associates in Computer Science (CIS), LACC Estimated Summer 2023 🍁 </a>
+     🍁 Associates in Computer Science, LACC Summer 2023 🍁 </a>
     <br>
-     🍁 Bachelors in Applied Linguistics with a Concentration in Computer Science, UCLA Estimated Summer 2023 🍁
+     🍁 Bachelors in Applied Linguistics with a Concentration in Computer Science, UCLA Summer 2023 🍁
      <br>
     🍁 Masters in Computer Science or Computational Linguistics, TBA 🍁
     <br>
-     🍁 Google Project Management CAPM Certification, Estimated Summer 2023 🍁
-     <br>
 </h4>
 
 <h4>
@@ -38,7 +36,7 @@
      <br>
     🍁 Independent E-commerce Retailer @ eBay - Sept 2022 - Present 🍁
     <br>
-    🍁 L'SPACE NWPEE Cohort Project Manager @ NASA - Jan 2023 - Present 🍁
+    🍁 L'SPACE NWPEE Cohort Project Manager @ NASA - Jan 2023 - March 2023 🍁
     <br>
     🍁 Web Development Intern @ FYI Inc - Feb 2023 - Present 🍁
 </h4>
@@ -70,7 +68,7 @@
 </a>
   </p>
 </h4>
-
+<!--
 <h4>
   <p align="center">
     <br>
@@ -79,6 +77,7 @@
 </a>
   </p>
 </h4>
+-->
 
 
  <p align="center">
