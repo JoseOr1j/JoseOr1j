@@ -21,7 +21,7 @@
     <br>
      🍁 Associates in Computer Science, LACC Summer 2023 🍁 </a>
     <br>
-     🍁 Bachelors in Applied Linguistics with a Concentration in Computer Science, UCLA Summer 2023 🍁
+     🍁 Bachelors in Linguistics and Computer Science UCLA Summer 2023 🍁
      <br>
     🍁 Masters in Computer Science or Computational Linguistics, TBA 🍁
     <br>
