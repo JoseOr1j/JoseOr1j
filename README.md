@@ -37,7 +37,7 @@
     <br>
     🍁 L'SPACE NWPEE Cohort Project Manager @ NASA - Jan 2023 - March 2023 🍁
     <br>
-    🍁 Web Development Intern @ FYI Inc - Feb 2023 - Present 🍁
+    🍁 Web Development / QA Intern @ FYI.ai - Feb 2023 - Present 🍁
 </h4>
 
 
@@ -85,5 +85,5 @@
 <!-- ⚡ Fun fact: I am a community college transfer student. -->
 <!--
 **JoseOr1j/JoseOr1j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-LAST UPDATED: 6:13 PM - 1/13/23
+LAST UPDATED: 6:13 PM - 9/18/23
 -->
