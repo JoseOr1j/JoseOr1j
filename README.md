@@ -7,7 +7,7 @@
 
 <h2>
 <p align="center">
-  🍁 Computer Science and Applied Linguistics Undergraduate<a href="https://www.ucla.edu/"> @ UCLA 🍁</a>
+  🍁 Linguistics and Computer Science <a href="https://www.ucla.edu/"> @ UCLA 🍁</a>
   <br>
 </p>
   </h2>
@@ -37,7 +37,7 @@
     <br>
     🍁 L'SPACE NWPEE Cohort Project Manager @ NASA - Jan 2023 - March 2023 🍁
     <br>
-    🍁 Web Development / QA Intern @ FYI.ai - Feb 2023 - Present 🍁
+    🍁 Web Development / QA  @ FYI.ai - Feb 2023 - Present 🍁
 </h4>
 
 
