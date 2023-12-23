@@ -31,6 +31,8 @@
     <br>
      🍁 L'SPACE MCA Cohort PM Investigator @ NASA - Sept 2020 - Jan 2021 🍁 </a>
     <br>
+     🍁 Google Hashcode Entrant '21 @ Google - Feb 2021 - April 2021 🍁
+     <br>
      🍁 Information Technology QA Intern @ East Los Angeles College - Mar 2021 - Jun 2021 🍁
      <br>
     🍁 Independent E-commerce Retailer @ eBay - Sept 2022 - Present 🍁
