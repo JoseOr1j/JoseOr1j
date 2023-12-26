@@ -22,7 +22,7 @@
     <br>
      🍁 Bachelors in Linguistics and Computer Science UCLA Summer 2023 🍁
      <br>
-    🍁 Masters in Computer Science or Computational Linguistics, TBA 🍁
+    🍁 Masters in Computer Science, Georgia Tech (OMSCS) 🍁
     <br>
 </h4>
 
