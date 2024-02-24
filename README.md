@@ -13,18 +13,7 @@
   </h2>
 <!-- <p align="center"> -->
 
-![Banner](https://github.com/JoseOr1j/JoseOr1j/blob/master/Github-Banner.png)
-
-<h4>
-  <p align="center">💻 Degrees and Future Plans 💬
-    <br>
-     🍁 Associates in Computer Science, LACC Summer 2023 🍁 </a>
-    <br>
-     🍁 Bachelors in Linguistics and Computer Science UCLA Summer 2023 🍁
-     <br>
-    🍁 Masters in Computer Science, Georgia Tech (OMSCS) 🍁
-    <br>
-</h4>
+![Banner](https://github.com/JoseOr1j/JoseOr1j/blob/master/Github-Banner.png) 
 
 <h4>
   <p align="center">💻 Related Experience 💬
@@ -33,9 +22,9 @@
     <br>
      🍁 Google Hashcode Entrant '21 @ Google - Feb 2021 - April 2021 🍁
      <br>
-     🍁 Information Technology QA Intern @ East Los Angeles College - Mar 2021 - Jun 2021 🍁
+     🍁  Quality Assurance Intern @ ELAC - Mar 2021 - Jun 2021 🍁
      <br>
-    🍁 Independent E-commerce Retailer @ eBay - Sept 2022 - Present 🍁
+    🍁 Independent E-Commerce Retailer @ eBay - Sept 2022 - Dec 2023 🍁
     <br>
     🍁 L'SPACE NWPEE Cohort Project Manager @ NASA - Jan 2023 - March 2023 🍁
     <br>
