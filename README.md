@@ -13,7 +13,7 @@
   </h2>
 <!-- <p align="center"> -->
 
-![Banner](https://github.com/JoseOr1j/JoseOr1j/blob/master/Github-Banner.png) 
+![Banner](https://github.com/JoseOr1j/JoseOr1j/blob/master/Github-Banner2.png) 
 
 <h4>
   <p align="center">💻 Related Experience 💬
