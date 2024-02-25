@@ -7,7 +7,7 @@
 
 <h2>
 <p align="center">
-  🍁 Linguistics and Computer Science <a href="https://www.ucla.edu/"> @ UCLA 🍁</a>
+  🍁 Welcome to my Github Page :) 🍁</a>
   <br>
 </p>
   </h2>
