@@ -18,17 +18,18 @@
 <h4>
   <p align="center">💻 Related Experience 💬
     <br>
-     🍁 L'SPACE MCA Cohort PM Investigator @ NASA - Sept 2020 - Jan 2021 🍁 </a>
-    <br>
-     🍁 Google Hashcode Entrant '21 @ Google - Feb 2021 - April 2021 🍁
-     <br>
-     🍁  Quality Assurance Intern @ ELAC - Mar 2021 - Jun 2021 🍁
-     <br>
-    🍁 Independent E-Commerce Retailer @ eBay - Sept 2022 - Dec 2023 🍁
-    <br>
+      🍁 Web Development / QA  @ FYI.ai - Feb 2023 - Present 🍁
+        <br>
     🍁 L'SPACE NWPEE Cohort Project Manager @ NASA - Jan 2023 - March 2023 🍁
+         <br>
+    🍁 Independent E-Commerce Retailer @ eBay - Sept 2022 - Dec 2023 🍁
+         <br>
+     🍁  Quality Assurance Intern @ ELAC - Mar 2021 - Jun 2021 🍁
+         <br>
+     🍁 Google Hashcode Entrant '21 @ Google - Feb 2021 - April 2021 🍁
     <br>
-    🍁 Web Development / QA  @ FYI.ai - Feb 2023 - Present 🍁
+  🍁 L'SPACE MCA Cohort PM Investigator @ NASA - Sept 2020 - Jan 2021 🍁
+  
 </h4>
 
 
