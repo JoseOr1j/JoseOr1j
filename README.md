@@ -22,7 +22,7 @@
         <br>
     🍁 L'SPACE NWPEE Cohort Project Manager @ NASA - Jan 2023 - March 2023 🍁
          <br>
-    🍁 Independent E-Commerce Retailer @ eBay - Sept 2022 - Dec 2023 🍁
+    🍁 Ecommerce Support @ eBay - Sept 2022 - Dec 2023 🍁
          <br>
      🍁  Quality Assurance Intern @ ELAC - Mar 2021 - Jun 2021 🍁
          <br>
