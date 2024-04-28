@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello there, I'm Joe / Jose 👋
+  Hello there, I'm Jose 👋
    <!-- <h1 align="center">
   <!-- <img alt="Halcyon Logo" src="https://github.com/JoseOr1j/Portfolio/blob/master/img/uclabruins.jpg" width="400" /> -->
 </h1> 
