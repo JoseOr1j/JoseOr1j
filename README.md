@@ -16,19 +16,11 @@
 ![Banner](https://github.com/JoseOr1j/JoseOr1j/blob/master/Github-Banner3.png) 
 
 <h4>
-  <p align="center">💻 Related Experience 💬
+  <p align="center">💻 About Me 💬
     <br>
-      🍁 Web Development / QA  @ FYI.ai - Feb 2023 - Present 🍁
+    🍁 I have three years of technical experience in a variety of settings doing Quality Assurance Testing, Web Development, Technical Product Sales, and Project Management.
+    🍁
         <br>
-    🍁 L'SPACE NWPEE Cohort Project Manager @ NASA - Jan 2023 - March 2023 🍁
-         <br>
-    🍁 Ecommerce Support @ eBay - Sept 2022 - Dec 2023 🍁
-         <br>
-     🍁  Quality Assurance Intern @ ELAC - Mar 2021 - Jun 2021 🍁
-         <br>
-     🍁 Google Hashcode Entrant '21 @ Google - Feb 2021 - April 2021 🍁
-    <br>
-  🍁 L'SPACE MCA Cohort PM Investigator @ NASA - Sept 2020 - Jan 2021 🍁
   
 </h4>
 
