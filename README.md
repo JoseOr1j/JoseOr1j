@@ -18,7 +18,7 @@
 <h4>
   <p align="center">💻 About Me 💬
     <br>
-    🍁 I have three years of technical experience in a variety of settings doing Quality Assurance Testing, Web Development, Technical Product Sales, and Project Management.
+    🍁 I have three years of technical experience in a variety of settings doing Quality Assurance Testing, Web Development, and Technical Support. 
     🍁
         <br>
   
