@@ -18,7 +18,7 @@
 <h4>
   <p align="center">💻 About Me 💬
     <br>
-    🍁 I have three years of technical experience in a variety of settings doing Quality Assurance Testing, Web Development, and Technical Support. 
+    🍁 Learning how to Automate things using Python :!
     🍁
         <br>
   
